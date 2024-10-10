@@ -1,5 +1,6 @@
 # Color table file /Users/amaga/Desktop/Segments.ctbl
 # 11 values
+0 background 0 0 0 255
 1 Cranium 128 174 128 255
 2 Mandible 241 214 145 255
 3 Humerus 177 122 101 255
